@@ -1,0 +1,15 @@
+.jumbotron{
+    padding-top: 6rem;
+    background-color: magenta;
+}
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+ }
+#projects{
+    background-color: magenta;
+}
+section{
+    padding-top: 5rem;
+}
